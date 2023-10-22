@@ -1,2 +1,2 @@
 # odin-landing-page
-https://www.theodinproject.com/lessons/foundations-landing-page
+Final Project in the Flexbox section of the Odin Project
