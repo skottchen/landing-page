@@ -24,7 +24,7 @@ body {
 
 #header-main-text {
   font-size: 48px;
-  font-weight: extra-bold;
+  font-weight: 800;
   color: #F9FAF8;
 }
 
@@ -76,7 +76,6 @@ body {
   font-size: 20px;
 }
 
-
 #navbar-logo, #navbar-links{
   padding-bottom: 100px;
 }
@@ -87,4 +86,32 @@ a:link {
 
 a:visited {
   color: white;
+}
+
+#info-header{
+  font-size: 36px;
+  font-weight: 800;
+  color: #1F2937;
+  text-align: center;
+  margin: 40px;
+}
+
+#info{
+  display: flex;
+  justify-content: center;
+  gap: 75px;
+  padding-bottom: 50px;
+}
+
+.info-content{
+  width: 8%;
+  text-align: center;
+}
+
+.info-square{
+  height: 150px;
+  width: 150px;
+  border: 3px solid rgb(30, 88, 214);
+  border-radius: 8px;
+  margin-bottom: -8px;
 }
