@@ -1,1 +1,6 @@
-Final Project in the Flexbox section of The Odin Project
+Exercise in the Flexbox section of The Odin Project
+
+Skills Demonstrated
+*HTML
+*CSS
+  *Flexbox
