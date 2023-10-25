@@ -1,6 +1,6 @@
-Exercise in the Flexbox section of The Odin Project
+Final Exercise in the Flexbox section of The Odin Project
 
-Skills Demonstrated
-*HTML
-*CSS
-  *Flexbox
+Skills Demonstrated: <br>
+- HTML
+- CSS
+     - Flexbox
