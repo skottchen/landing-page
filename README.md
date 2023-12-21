@@ -1,4 +1,4 @@
-Project: Landing Page
+Project: Landing Page <br>
 The Odin Project Foundations Course
 
 Skills Demonstrated: <br>
