@@ -1,4 +1,5 @@
-Final exercise in the Flexbox section of The Odin Project
+Project: Landing Page
+The Odin Project Foundations Course
 
 Skills Demonstrated: <br>
 - HTML
