@@ -5,5 +5,3 @@ Skills Demonstrated: <br>
 - HTML
 - CSS
      - Flexbox
-
-This was a challenging project
